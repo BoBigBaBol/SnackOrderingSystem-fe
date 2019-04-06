@@ -1,4 +1,10 @@
 .idea
+<<<<<<< HEAD
 package-lock.json
 /node_modules/
+=======
+.git
+.package-lock.json
+/node_module/
+>>>>>>> 161dbe5c9f454aa731d0447e8b99954447869f17
 /dist
